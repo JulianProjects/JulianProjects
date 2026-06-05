@@ -9,6 +9,18 @@ I am a Computer Science student at HTWK Leipzig, working on software projects an
 - 🛠️ Working on university, learning and personal projects
 - 📚 Currently improving my programming and Git/GitHub skills
 
+## Featured Projects
+
+### [Java Calculator](https://github.com/JulianProjects/java-calculator)
+A simple calculator built with Java to practice basic programming concepts, user input and clean code structure.
+
+**Technologies:** Java, Eclipse
+
+### [Portfolio Website](https://github.com/JulianProjects/portfolio-website)
+A personal portfolio website to present my projects, skills and learning progress.
+
+**Technologies:** HTML, CSS, JavaScript
+
 <h2 align="left">I code with</h2>
 
 ###
