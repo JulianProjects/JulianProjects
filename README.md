@@ -32,6 +32,7 @@ I am a Computer Science student at HTWK Leipzig, working on software projects an
 
 ###
 
+## Activity Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianProjects/JulianProjects/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulianProjects/JulianProjects/output/pacman-contribution-graph.svg">
