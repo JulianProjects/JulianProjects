@@ -1,4 +1,4 @@
-# Hi, I'm Julian 👋
+# Julian — Computer Science Student
 
 I am a Computer Science student at HTWK Leipzig, working on software projects and sharing some of them here on GitHub.
 
@@ -7,7 +7,7 @@ I am a Computer Science student at HTWK Leipzig, working on software projects an
 - 🎓 Studying Computer Science at HTWK Leipzig
 - 💻 Interested in software development
 - 🛠️ Working on university, learning and personal projects
-- 📚 Currently improving my programming and Git/GitHub skills
+- 📚 Currently improving my programming and GitHub skills
 
 ## Featured Projects
 
