@@ -18,7 +18,8 @@ This project is a graphical Wordle-style word guessing game developed in Java.
  This is the code for a binary clock. 
 
 ### [Crime Statistics Germany Generator](https://github.com/JulianProjects/Crime-Statistics-Germany-Generator)
-Interactive visualization dashboard showing crime rates and socioeconomic indicators across German districts, including selectable data categories and statistical trend charts.
+Interactive dashboard for exploring crime and socioeconomic data across German districts.
+
 
 <h2 align="left">I code with</h2>
 
