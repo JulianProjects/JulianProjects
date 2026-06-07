@@ -11,7 +11,7 @@ I am a Computer Science student at HTWK Leipzig, working on software projects an
 
 ## Featured Projects
 
-### [[Java Word Game](https://github.com/JulianProjects/word-guessing-game)
+### [Java Word Game](https://github.com/JulianProjects/word-guessing-game)
 This project is a graphical Wordle-style word guessing game developed in Java.
 
 **Technologies:** Java, Eclipse
