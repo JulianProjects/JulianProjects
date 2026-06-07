@@ -11,8 +11,8 @@ I am a Computer Science student at HTWK Leipzig, working on software projects an
 
 ## Featured Projects
 
-### [Java Calculator](https://github.com/JulianProjects/java-calculator)
-A simple calculator built with Java to practice basic programming concepts, user input and clean code structure.
+### [[Java Word Game](https://github.com/JulianProjects/word-guessing-game)
+This project is a graphical Wordle-style word guessing game developed in Java.
 
 **Technologies:** Java, Eclipse
 
