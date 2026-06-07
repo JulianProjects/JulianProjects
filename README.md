@@ -14,12 +14,8 @@ I am a Computer Science student at HTWK Leipzig, working on software projects an
 ### [Java Word Game](https://github.com/JulianProjects/word-guessing-game)
 This project is a graphical Wordle-style word guessing game developed in Java.
 
-**Technologies:** Java, Eclipse
-
 ### [Binary Clock](https://github.com/JulianProjects/bineryclock)
  This is the code for a binary clock. 
-
-**Technologies:** HTML, CSS, JavaScript
 
 <h2 align="left">I code with</h2>
 
