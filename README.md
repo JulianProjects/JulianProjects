@@ -17,6 +17,9 @@ This project is a graphical Wordle-style word guessing game developed in Java.
 ### [Binary Clock](https://github.com/JulianProjects/bineryclock)
  This is the code for a binary clock. 
 
+### [Crime Statistics Germany Generator](https://github.com/JulianProjects/word-guessing-game)
+Interactive visualization dashboard showing crime rates and socioeconomic indicators across German districts, including selectable data categories and statistical trend charts.
+
 <h2 align="left">I code with</h2>
 
 ###
