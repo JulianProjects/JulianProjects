@@ -16,8 +16,8 @@ A simple calculator built with Java to practice basic programming concepts, user
 
 **Technologies:** Java, Eclipse
 
-### [Portfolio Website](https://github.com/JulianProjects/portfolio-website)
-A personal portfolio website to present my projects, skills and learning progress.
+### [Java Word Game]([https://github.com/JulianProjects/portfolio-website](https://github.com/JulianProjects/word-guessing-game))
+This project is a graphical Wordle-style word guessing game developed in Java.
 
 **Technologies:** HTML, CSS, JavaScript
 
