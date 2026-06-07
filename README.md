@@ -16,8 +16,8 @@ This project is a graphical Wordle-style word guessing game developed in Java.
 
 **Technologies:** Java, Eclipse
 
-### [Java Word Game]([https://github.com/JulianProjects/portfolio-website](https://github.com/JulianProjects/word-guessing-game))
-This project is a graphical Wordle-style word guessing game developed in Java.
+### [Binary Clock](https://github.com/JulianProjects/bineryclock)
+ This is the code for a binary clock. 
 
 **Technologies:** HTML, CSS, JavaScript
 
