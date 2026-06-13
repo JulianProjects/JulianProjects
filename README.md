@@ -1,6 +1,8 @@
 # Julian — Computer Science Student
 
 I am a Computer Science student at HTWK Leipzig, working on software projects and sharing some of them here on GitHub.
+My current university project involves developing a contract management application in a team using Angular and TypeScript.
+
 
 ## About me
 
